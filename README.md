@@ -1,4 +1,3 @@
-
 Product Name: OTH - ONE TIME HANDSHAKE
 Problem Statement:
 The current authentication method using OTP (One-Time Password) has several shortcomings, including:
